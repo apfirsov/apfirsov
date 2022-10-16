@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **apfirsov/apfirsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is Artem
-#### I'm Python Developer
+### Hi there 👋
 
-I studied at Yandex
+#### My name is Artem. I'm Python Developer
 
-This profile will be filled in later. For now, I post links to some of my projects.
+🌱 I studied at Yandex.
+
+⚡ This profile will be filled in later. For now, I post links to some of my projects.
 
 [YaMDb](https://github.com/apfirsov/api_yamdb)
 
@@ -27,19 +26,12 @@ This profile will be filled in later. For now, I post links to some of my projec
 
 Skills: Python / Django / Fast API / SQL / Docker
 
-- 🔭 I’m currently working on this page. 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apfirsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/artem_hi)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apfirsov)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=apfirsov&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=apfirsov)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=apfirsov)  
 
 ![GitHub metrics](https://metrics.lecoq.io/apfirsov)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=apfirsov)  
 
 ![Profile views](https://gpvc.arturio.dev/apfirsov)  
