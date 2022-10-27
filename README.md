@@ -18,15 +18,38 @@ Here are some ideas to get you started:
 
 🌱 I studied at Yandex.
 
+------------
+
 ⚡ This profile will be filled in later. For now, I post links to some of my projects.
 
 [YaMDb](https://github.com/apfirsov/api_yamdb)
 
-[YATUBE](https://github.com/apfirsov/api_final_yatube)
+[Algorithms & Data structures](https://github.com/apfirsov/practicum_algorithms)
 
-Skills: Python / Django / Fast API / SQL / Docker
+[YATUBE](https://github.com/apfirsov/hw05_final)
+
+[YATUBE.API](https://github.com/apfirsov/api_final_yatube)
+
+------------
+
+#### Skills:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
+</div>
+
+------------
+
+#### How to reach me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apfirsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/artem_hi)  
+
+------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apfirsov)](https://github.com/ryo-ma/github-profile-trophy)
 
