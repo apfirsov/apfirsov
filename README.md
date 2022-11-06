@@ -22,16 +22,40 @@ Here are some ideas to get you started:
 
 ⚡ This profile will be filled in later. For now, I post links to some of my projects.
 
-[YaMDb](https://github.com/apfirsov/api_yamdb)
+------------
 
-[Algorithms & Data structures](https://github.com/apfirsov/practicum_algorithms)
+### [YaMDb](https://github.com/apfirsov/api_yamdb)
 
-[YATUBE](https://github.com/apfirsov/hw05_final)
-
-[YATUBE.API](https://github.com/apfirsov/api_final_yatube)
+Rest API app - feedback and rating platform. Django Rest Framework, JWT
 
 ------------
 
+### [YATUBE](https://github.com/apfirsov/api_final_yatube)
+
+Blogs platform at Django with templates. Has Rest API at Django Rest Framework with JWT authentication.
+
+
+
+------------
+
+### [Algorithms & Data structures](https://github.com/apfirsov/practicum_algorithms)
+
+Yandex.Context tasks
+
+
+------------
+
+### [VPS manager](https://github.com/apfirsov/vps_manager)
+
+Rest API app - manager VPS. Django Rest Framework, JWT
+
+------------
+
+### [Telegram BOT](https://github.com/apfirsov/homework_bot)
+
+Lib: requests, telegram, logging
+
+------------
 #### Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
