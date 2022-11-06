@@ -39,8 +39,7 @@ Blogs platform at Django with templates. Has Rest API at Django Rest Framework w
 
 ### [Algorithms & Data structures](https://github.com/apfirsov/practicum_algorithms)
 
-Yandex.Context tasks
-
+Yandex.Contest algorithmic tasks resolving
 
 ------------
 
