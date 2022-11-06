@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 🌱 I studied at Yandex.
 
-------------
-
-⚡ This profile will be filled in later. For now, I post links to some of my projects.
 
 ------------
+
+## ⚡ This profile will be filled in later. For now, I post links to some of my projects.
 
 ### [YaMDb](https://github.com/apfirsov/api_yamdb)
 
